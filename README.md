@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Didi (did2818233534)
+## Hi there 👋 I'm Didi
 
 一个专注于 **硬核机器人控制** 和 **电机驱动算法 (FOC)** 的嵌入式工程师。
 
