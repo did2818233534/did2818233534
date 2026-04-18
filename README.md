@@ -21,9 +21,7 @@
 ### 📫 如何联系我 (Connect with Me)
 
 <p align="left">
-
 <a href="mailto:did2818233534@outlook.com"><img src="https://img.shields.io/badge/Email-did2818233534@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-
 <img src="https://img.shields.io/badge/QQ-3401077104-0099FF?style=flat-square&logo=tencent-qq&logoColor=white" />
 
 </p>
